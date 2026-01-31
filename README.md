@@ -8,7 +8,7 @@
 ---
 
 ## 📢 News
-- **[Jan 2026]** Our paper has been accepted as a **Poster** at **ICLR 2026**. 🚀
+- **[Jan 2026]** Our paper has been accepted at **ICLR 2026**. 🚀
 
 ---
 

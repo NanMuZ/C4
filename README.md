@@ -58,10 +58,11 @@ C4 is released under the MIT License, consistent with the base repository.
 📖 Citation
 
 If you find this work useful, please consider citing:
-
+```
 @inproceedings{qiao2026less,
   title     = {Less is More: Clustered Cross-Covariance Control for Offline RL},
   author    = {Qiao, Nan and Yue, Sheng and Wang, Shuning and Deng, Yongheng and Ren, Ju},
   booktitle = {International Conference on Learning Representations (ICLR)},
   year      = {2026}
 }
+```

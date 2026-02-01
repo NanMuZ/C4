@@ -20,7 +20,7 @@ Our method demonstrates state-of-the-art performance across D4RL locomotion and 
 ---
 
 ## 👥 Authors
-- Nan Qiao ([NanMuZ](https://github.com/NanMuZ))
+- Nan Qiao (nanqiao.ai@gmail.com)
 - Sheng Yue
 - Shuning Wang
 - Yongheng Deng

@@ -27,15 +27,14 @@ pip install -e .
 ```
 
 
-
 ## 🚀 Quick Start
 ```bash
 python run/C4.py 
 ```
 
+---
 
-
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 This repository is built upon OfflineRL-Kit:
 https://github.com/yihaosun1124/OfflineRL-Kit
@@ -45,11 +44,15 @@ We sincerely thank the authors for their clean and efficient framework.
 C4 is released under the MIT License, consistent with the base repository.
 
 
-📬 Contact
+---
+
+## 📬 Contact
 For questions or collaborations, please email: nanqiao.ai@gmail.com
 
 
-📖 Citation
+---
+
+## 📖 Citation
 
 If you find this work useful, please consider citing:
 ```

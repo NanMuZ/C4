@@ -13,9 +13,7 @@
 ---
 
 ## 📝 Abstract
-**C4** (Clustered Cross-Covariance Control) addresses the fundamental challenge of distributional shift in offline reinforcement learning.  
-By identifying and mitigating harmful TD cross-covariance through **partitioned buffer sampling** and **gradient-based corrective penalties**, C4 significantly stabilizes value estimation.  
-Our method demonstrates state-of-the-art performance across D4RL locomotion and kitchen tasks, achieving up to **30%** improvement in returns over baseline methods.
+**C4** (Clustered Cross-Covariance Control) addresses the fundamental challenge of distributional shift in offline reinforcement learning. By identifying and mitigating harmful TD cross-covariance through **partitioned buffer sampling** and **gradient-based corrective penalties**, C4 significantly stabilizes value estimation. Our method demonstrates state-of-the-art performance across D4RL locomotion and kitchen tasks, achieving up to **30%** improvement in returns over baseline methods.
 
 ---
 

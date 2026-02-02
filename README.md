@@ -17,15 +17,6 @@
 
 ---
 
-## 👥 Authors
-- Nan Qiao (nanqiao.ai@gmail.com)
-- Sheng Yue
-- Shuning Wang
-- Yongheng Deng
-- Ju Ren
-
----
-
 ## 🛠️ Installation
 
 ### 1) Clone and Install
@@ -52,6 +43,11 @@ https://github.com/yihaosun1124/OfflineRL-Kit
 We sincerely thank the authors for their clean and efficient framework.
 
 C4 is released under the MIT License, consistent with the base repository.
+
+
+📬 Contact
+For questions or collaborations, please email: nanqiao.ai@gmail.com
+
 
 📖 Citation
 
